@@ -4,6 +4,10 @@ body{
 }
 #game-screen{
     display: block;
-    background-image: url("http://upload.wikimedia.org/wikipedia/commons/8/8f/FullColourGIF.gif")
-    
+
+
+}
+#gameOver{
+    position: absolute;
+    visibility: hidden;
 }
