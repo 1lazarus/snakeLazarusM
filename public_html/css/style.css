@@ -11,3 +11,13 @@ body{
     position: absolute;
     visibility: hidden;
 }
+h1,h2{
+    font-family: "Permanent Marker",cursive;
+    color: white;
+    text-align: center;
+        
+      
+}
+.title{
+    font-size: 62px;
+}
